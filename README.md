@@ -3,7 +3,7 @@
 
 #### The web version of Alphabet Checker is the two files located in the root directory of the project.
 
-#### The 'ruby' directory contains the basic program completed in Ruby
+#### The 'ruby' directory contains the basic program completed in Ruby. The text it deals with is entered via a .txt file.
 
 #### Within the 'reddit' directory is my original Alphabet Checker project.
 #### It was originally designed as a bot for Reddit using Node.js and various modules.
