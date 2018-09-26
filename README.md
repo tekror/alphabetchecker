@@ -2,6 +2,9 @@
 ### A program that provides various statistics about a body of text entered by the user
 
 #### The web version of Alphabet Checker is the two files located in the root directory of the project.
+
+#### The 'ruby' directory contains the basic program completed in Ruby
+
 #### Within the 'reddit' directory is my original Alphabet Checker project.
 #### It was originally designed as a bot for Reddit using Node.js and various modules.
 #### The program goes to the requested subreddit, finds the current top post, finds the top comment of that post, and replies to the user's comment with various facts and statistics about the user's comment, as well as more stats about their top 100 comments.
